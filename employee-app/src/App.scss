@@ -1,0 +1,14 @@
+.wrapper{
+ 
+     .cardFlex{
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0.5rem;
+        justify-content: center;
+        .cardRow{
+            margin: 1rem;
+            text-align: center;
+        }
+     }
+     
+}
